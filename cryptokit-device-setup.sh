@@ -4,8 +4,6 @@
 sudo apt-get install -y hostapd dnsmasq netstat traceroute openvpn 
 
 
-
-
 ### configure openvpn
 cd /etc/openvpn
 sudo cp /usr/share/doc/openvpn/examples/sample-config-files/client.conf .
